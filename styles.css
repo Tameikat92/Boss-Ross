@@ -1,0 +1,17 @@
+body {
+    background-color:  skyblue;
+
+}
+
+.night{
+    background-color: darkblue;
+}
+
+.tree{
+    width: 50px; /* generic sizing */
+    height: 50px;
+    margin: 10px;
+
+    display: inline-block;
+    border: 2px solid green;
+}
